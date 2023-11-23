@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in blockchain, Nodejs backend
 - 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on ... Nodejs
+- 💞️ I’m looking to collaborate on ... Nodejs.
 
 <p align="left">
 </p>
